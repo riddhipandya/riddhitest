@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 helloworld
 ==========
 
@@ -16,3 +17,9 @@ riddhitest
 
 riddhi test file
 >>>>>>> 05a9957409b3e157cceaf75840886d044af41a1a
+=======
+newrepository
+=============
+
+newrepository
+>>>>>>> 74457867f65a714825c45acdc488baa154e1d262
